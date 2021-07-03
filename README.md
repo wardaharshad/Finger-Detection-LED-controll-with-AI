@@ -3,7 +3,7 @@ Artificial Intelligence - Computer Vision
 
 # Finger Detection opencv-python with ARduino to controll LED glow
 
-Libries installed:
+Libraries installed:
 
 pip install mediapipe
 
